@@ -1,0 +1,13 @@
+name: climate_practical
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab>=3.6,<5
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - ipywidgets
+  - jupyterlab_widgets
+  - widgetsnbextension
